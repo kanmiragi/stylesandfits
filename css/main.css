@@ -253,11 +253,11 @@ h6 {
 }
 
 .btn--green {
-  background: #57b846;
+  background: #01020B;
 }
 
 .btn--green:hover {
-  background: #4dae3c;
+  background: #fff;
 }
 
 /* ==========================================================================
@@ -467,7 +467,7 @@ input {
    ========================================================================== */
 .title {
   font-size: 24px;
-  color: #fff;
+  color: #000;
   font-weight: 400;
   margin-bottom: 36px;
 }
@@ -484,7 +484,7 @@ input {
 }
 
 .card-3 {
-  background: #000;
+  background: #FFFFFF;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
